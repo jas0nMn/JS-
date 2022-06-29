@@ -1,0 +1,67 @@
+html, body {
+    height: 100%;
+    background: #2D2D2D;
+  }
+table{
+    border-collapse: collapse;
+    margin: auto auto;
+}
+td{
+    width: 150px;
+
+    line-height: 50px;
+}
+
+.btn{
+    width: 150px;
+    height: 70px;
+    font-size: x-large;
+    border:0;
+    background-color:#0f172a;
+    color:#fff;
+    border-radius:10px;
+    cursor:pointer
+}
+.btn:hover{
+    color:#0f172a;
+    background-color:#fff;
+    border:2px #0f172a solid;
+  }
+.btn_click{
+    width: 300px;
+    line-height: 70px;
+    font-size: x-large;
+    border:0;
+    background-color:#0f172a;
+    color:#fff;
+    border-radius:10px;
+    cursor:pointer
+}
+.btn_click:hover{
+    color:#0f172a;
+    background-color:#fff;
+    border:2px #0f172a solid;
+  }
+.txt{
+    width: 600px;
+    line-height: 140px;
+    font-size: 50px;
+    text-align: right;
+    border:0;
+    background-color:#9fa1a4f3;
+    color:rgb(0, 0, 0);
+    border-radius:10px;
+    cursor:pointer
+}
+.record{
+    width: 300px;
+    height: 506px;
+    line-height: 1;
+    font-size: 30px;
+    text-align: left;
+    border:0;
+    background-color:#9fa1a4f3;
+    color:rgb(0, 0, 0);
+    border-radius:10px;
+    cursor:pointer
+}
